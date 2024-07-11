@@ -31,7 +31,7 @@ INTERVAL=${INTERVAL:-1}
 # 设置安装路径
 INSTALL_DIR="/usr/local/bin"
 BINARY_NAME="yestatus"
-DOWNLOAD_URL="https://github.com/path/to/yestatus"  # 请替换为实际的下载 URL
+DOWNLOAD_URL="https://github.com/HynoR/yestatus_client/releases/download/0.1/yestatus"  # 请替换为实际的下载 URL
 
 # 下载程序
 echo "正在下载 Server Status 程序..."
